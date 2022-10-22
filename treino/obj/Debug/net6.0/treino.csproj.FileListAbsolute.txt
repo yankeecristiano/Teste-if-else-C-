@@ -1,0 +1,30 @@
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\bin\Debug\net6.0\treino.exe
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\bin\Debug\net6.0\treino.deps.json
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\bin\Debug\net6.0\treino.runtimeconfig.json
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\bin\Debug\net6.0\treino.dll
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\bin\Debug\net6.0\treino.pdb
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\treino.csproj.AssemblyReference.cache
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\treino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\treino.AssemblyInfoInputs.cache
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\treino.AssemblyInfo.cs
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\treino.csproj.CoreCompileInputs.cache
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\treino.dll
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\refint\treino.dll
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\treino.pdb
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\treino.genruntimeconfig.cache
+C:\Users\Yankee Cristiano\Desktop\atividade curso\treino\treino\obj\Debug\net6.0\ref\treino.dll
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\bin\Debug\net6.0\treino.exe
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\bin\Debug\net6.0\treino.deps.json
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\bin\Debug\net6.0\treino.runtimeconfig.json
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\bin\Debug\net6.0\treino.dll
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\bin\Debug\net6.0\treino.pdb
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\treino.csproj.AssemblyReference.cache
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\treino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\treino.AssemblyInfoInputs.cache
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\treino.AssemblyInfo.cs
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\treino.csproj.CoreCompileInputs.cache
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\treino.dll
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\refint\treino.dll
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\treino.pdb
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\treino.genruntimeconfig.cache
+C:\Users\Yankee Cristiano\Desktop\curso c#\estrutura condicional if - else\treino\obj\Debug\net6.0\ref\treino.dll
